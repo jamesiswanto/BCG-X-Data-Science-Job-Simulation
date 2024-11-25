@@ -54,17 +54,3 @@ This project is part of the **BCG x Forage Data Science Virtual Experience Progr
 1. **`client_data.csv`**: Contains customer consumption, churn, and contract details.  
 2. **`price_data.csv`**: Includes pricing information for off-peak, peak, and mid-peak periods.  
 3. **Jupyter Notebook**: Python code for data analysis, visualization, and insights generation.
-
----
-
-## How to Use  
-
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/jamesiswanto/PowerCo-Churn-Analysis.git
-   ```
-2. Install Dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Open the Jupyter Notebook for detailed analysis and visualization
